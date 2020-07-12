@@ -11,7 +11,7 @@
         <h2 class="footer-production-title footer-title">Production</h2>
         <div class="footer-production-creator">
           <p class="footer-production-text">
-            本サイトはリベ大ゲーム開発チャットで制作された「リベ大のレーダーチャート」を元に制作させていただきました。
+            本サイトはリベ大ゲーム開発チャット有志の制作であり、リベ大【非公式の製作物】です。
           </p>
           <h3>Creator</h3>
           <figure><img src="~/assets/thanks.png"></figure>
