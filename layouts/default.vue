@@ -4,6 +4,9 @@
       <h1 class="title">
         リベ大生のレーダーチャート
       </h1>
+      <p class="header-production-text">
+        ※本サイトはリベ大ゲーム開発チャット有志の制作であり、リベ大【非公式の製作物】です。
+      </p>
     </header>
     <Nuxt />
     <footer class="footer">
@@ -78,6 +81,10 @@ img {
   text-align: center;
   margin-top: 96px;
   font-size: 48px;
+}
+
+.header-production-text {
+  text-align: center;
 }
 
 .footer {
